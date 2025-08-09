@@ -1,7 +1,5 @@
 
-<p align="center">My Channel</br><b>
-| <a href="https://discord.gg/GCehyym">Discord</a> | <a href="https://youtube.com/@layargeser">YouTube</a> |</b></p>
-
+<p align="center">Ubuntu in termux source (wahasa) modified by alxzy</br><b>
 ---
 ## Ubuntu on Termux Android
 
@@ -20,16 +18,16 @@ Copy and paste this command to Termux :
 #### Ubuntu 24.10 (Pre-release)
 Rootfs : Armhf, Arm64, Amd64
 ```
-pkg install wget -y ; wget https://raw.githubusercontent.com/wahasa/Ubuntu/main/Install/ubuntu24.10.sh ; chmod +x ubuntu24.10.sh ; ./ubuntu24.10.sh
+pkg install wget -y ; wget https://raw.githubusercontent.com/alands-offc/Ubuntu/main/Install/ubuntu24.10.sh ; chmod +x ubuntu24.10.sh ; ./ubuntu24.10.sh
 ```
 
 #### Ubuntu 24.04 (Noble Numbat)
 Rootfs : Armhf, Arm64, Amd64
 ```
-pkg install wget -y ; wget https://raw.githubusercontent.com/wahasa/Ubuntu/main/Install/ubuntu24.04.sh ; chmod +x ubuntu24.04.sh ; ./ubuntu24.04.sh
+pkg install wget -y ; wget https://raw.githubusercontent.com/alands-offc/Ubuntu/main/Install/ubuntu24.04.sh ; chmod +x ubuntu24.04.sh ; ./ubuntu24.04.sh
 ```
 
-#### List Ubuntu | [Click Hare >](https://github.com/wahasa/Ubuntu/tree/main/Install)
+#### List Ubuntu | [Click Hare >](https://github.com/alands-offc/Ubuntu/tree/main/Install)
 </details>
 
 ---
@@ -73,9 +71,9 @@ Feature
 - [x] Fixed Sound
 - [x] Access to Sdcard
 - [x] Fixed Browser Crash
-- [x] Install Applications | [Click Here >](https://github.com/wahasa/Ubuntu/tree/main/Apps)
+- [x] Install Applications | [Click Here >](https://github.com/alands-offc/Ubuntu/tree/main/Apps)
 
-Visit problems now in : [Issues](https://github.com/wahasa/Ubuntu/issues)
+Visit problems now in : [Issues](https://github.com/alands-offc/Ubuntu/issues)
 
 ---
 ## VNC Viewer
